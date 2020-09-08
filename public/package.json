@@ -1,0 +1,27 @@
+{
+  "name": "react-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio build using React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/A1isone/react-portfolio.git"
+  },
+  "keywords": [
+    "React",
+    "Reactjs",
+    "developer",
+    "web",
+    "java",
+    "javascript"
+  ],
+  "author": "Joseph Salvador",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/A1isone/react-portfolio/issues"
+  },
+  "homepage": "https://github.com/A1isone/react-portfolio#readme"
+}
